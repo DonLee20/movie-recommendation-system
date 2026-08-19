@@ -26,3 +26,5 @@ joblib>=1.3.0
 
 # HTTP Client & External APIs
 requests>=2.31.0
+
+email-validator
